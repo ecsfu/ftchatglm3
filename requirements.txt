@@ -1,0 +1,12 @@
+cpm_kernels==1.0.11
+datasets==2.18.0
+jieba==0.42.1
+nltk==3.8.1
+numpy==1.26.4
+peft==0.7.1
+rouge_chinese==1.0.3
+ruamel.base==1.0.0
+sentencepiece==0.2.0
+torch==2.1.2+cu121
+transformers==4.38.1
+typer==0.12.0
